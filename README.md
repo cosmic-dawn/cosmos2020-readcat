@@ -2,7 +2,9 @@
 A basic script to get started with the COSMOS2020 catalogue. It shows how to modify photometry, plot galaxy physical quantities, etc. Written by D. Blanquez, I. Davidzon, G. Magdis.
 
 ## Contacts
-dblse@space.dtu.dk, iary.davidzon@nbi.ku.dk
+David Blanquez-Sese: dblse@space.dtu.dk 
+
+Iary Davidzon: iary.davidzon@nbi.ku.dk
 
 ## Outline
 
