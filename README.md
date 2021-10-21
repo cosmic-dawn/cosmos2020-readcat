@@ -8,7 +8,7 @@ Iary Davidzon: iary.davidzon@nbi.ku.dk
 
 ## Outline
 
-With the present Notebook the user is able to extract valuable information from the COSMOS2020 catalogue, which can be downloaded from [this data repository](https://cosmos2020.calet.org/). This is also a convenient starting point for further analysis. With minimal modifications the code can be useful to study others galaxy catalogues. 
+With the present Notebook the user is able to extract valuable information from the COSMOS2020 catalogue, which can be downloaded from [the official data repository](https://cosmos2020.calet.org/). This is also a convenient starting point for further analysis. With minimal modifications the code can be useful to study others galaxy catalogues. 
 
 The Notebook is divided in the following sections:
 
