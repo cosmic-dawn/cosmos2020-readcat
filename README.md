@@ -1,4 +1,4 @@
-# Noetbook for COSMOS2020 catalogue analysis
+# Noetbook to analyse the COSMOS2020 catalogue
 A basic script to get started with the COSMOS2020 catalogue. It shows how to modify photometry, plot galaxy physical quantities, etc. Written by D. Blanquez, I. Davidzon, G. Magdis.
 
 ## Contacts
