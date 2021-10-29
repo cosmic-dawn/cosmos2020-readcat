@@ -19,4 +19,4 @@ The Notebook is divided in the following sections:
 * **A simple machine-learning application**: prducing "mock photometry" by means of Gaussian Mixtures
 
 ## Acknowledgments 
-If you use the COSMOS2020 catalog in your study, please cite [Weaver et al. (2021)](www.linktopaper.com)
+If you use the COSMOS2020 catalog in your study, please cite [Weaver et al. (2021)](https://arxiv.org/abs/2110.13923)
